@@ -1,0 +1,43 @@
+﻿Построение начато 22.06.2015 13:52:45.
+     1>Проект "D:\универ\ВСРПП\lab1_gembitskaya\lab1_gembitskaya\lab1_gembitskaya.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab1_gembitskaya.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\lab1_gembitskaya.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab1_gembitskaya.cpp lab1_gembitskayaDoc.cpp lab1_gembitskayaView.cpp
+         lab1_gembitskayaDoc.cpp
+         Создание кода...
+         Пропуск... (изменения не обнаружены)
+         lab1_gembitskayaView.cpp
+         lab1_gembitskaya.cpp
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\универ\ВСРПП\lab1_gembitskaya\Debug\lab1_gembitskaya.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\lab1_gembitskaya.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\универ\ВСРПП\lab1_gembitskaya\Debug\lab1_gembitskaya.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\универ\ВСРПП\lab1_gembitskaya\Debug\lab1_gembitskaya.lib" /MACHINE:X86 Debug\lab1_gembitskaya.res
+         Debug\lab1_gembitskaya.exe.embed.manifest.res
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\lab1_gembitskaya.obj
+         Debug\lab1_gembitskayaDoc.obj
+         Debug\lab1_gembitskayaView.obj
+         Debug\MainFrm.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\lab1_gembitskaya.exe.embed.manifest" /manifest Debug\lab1_gembitskaya.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         lab1_gembitskaya.vcxproj -> D:\универ\ВСРПП\lab1_gembitskaya\Debug\lab1_gembitskaya.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab1_gembitskaya.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab1_gembitskaya.lastbuildstate".
+     1>Построение проекта "D:\универ\ВСРПП\lab1_gembitskaya\lab1_gembitskaya\lab1_gembitskaya.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.63
